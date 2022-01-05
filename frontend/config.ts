@@ -15,6 +15,9 @@ const config: IConfig = {
     "0xA0aD4360081ac3F3FA7C693dafDE09767EAa2ec7": 10000000,
     "0x4626eb76a7c2896645B0117614Ec0555e6E3a180": 10000000,
     "0xE2c1a36f6d39F3D1698078e6579fCAbb779B5a32": 10000000
-  }
-}
+  },
+};
+
+// Export config
+export default config;
   
